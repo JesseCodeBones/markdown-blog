@@ -13,6 +13,9 @@
 ## Build and Run
 * simply run `./gradlew bootRun -i`
 
+## upload markdown document
+* upload .md file with URL: "/addDoc"
+
 ## DEMO page
 
 https://www.chenruixiang.top
